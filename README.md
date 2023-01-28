@@ -2,16 +2,11 @@
 
 This is the replicate version of the original FlappyBird by Dong Nguyen.
 
+![App Screenshot](https://github.com/ChristyThomas95/Flappybird/blob/master/Screenshot/Animation.gif)
+
 ## Installation
 
 Install pygame by typing "pip install pygame" or pip3 install pygame.
-##Screenshot
-
-
-
-
-
-
 
 ## Notice
 i do not own most of the Flappy Bird assets, or the Flappy Bird name, some of the assets were extracted straight from the game. They are the work and copyright of original creator Dong Nguyen and .GEARS games (http://www.dotgears.com/).
